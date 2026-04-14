@@ -1,4 +1,3 @@
-
 1. House Price Prediction (Machine Learning & Regression)
 Files: House_Price_Prediction.ipynb, Housing.xlsx, Report.docx
 
@@ -6,10 +5,10 @@ Project Overview: A predictive modeling project focused on estimating real estat
 
 Key Features:
 
-EDA: Handled missing values and identified key correlations using Seaborn/Matplotlib.
+  EDA: Handled missing values and identified key correlations using Seaborn/Matplotlib.
 
-Feature Engineering: Scaled numerical data and encoded categorical variables for model readiness.
+  Feature Engineering: Scaled numerical data and encoded categorical variables for model readiness.
 
-Modeling: Implemented Regression algorithms (Linear/Random Forest) to predict prices.
+  Modeling: Implemented Regression algorithms (Linear/Random Forest) to predict prices.
 
-Insights: Detailed report on the primary drivers of property value.
+  Insights: Detailed report on the primary drivers of property value.
